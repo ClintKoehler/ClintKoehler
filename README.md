@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClintKoehler
 - 👀 I’m interested in learning how to be a full stack software developer.
-- 🌱 I’m currently learning html, css, and javascript
+- 🌱 I’m currently learning <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>html, css, and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
