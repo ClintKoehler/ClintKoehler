@@ -37,7 +37,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>View.js</strong></span><br>      
+            <span><strong>Vue.js</strong></span><br>      
         
     </tbody>
 </table>
