@@ -14,4 +14,4 @@ When I am not learning how to code you can find me outdoors mountain biking, hik
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ClintKoehler&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClintKoehler&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=ClintKoehler&icon=0&color=9)](https://visitcount.itsvg.in)
+
