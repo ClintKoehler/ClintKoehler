@@ -1,8 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m @ClintKoehler<br><br>👀 I’m currently dedicated to learning full-stack software development.<br><br>
-I find it quite fun to learn and build things, but it can also be quite challenging, but I really enjoy the reward when I overcome small hurdles!<br><br>
-When I am not learning how to code you can find me outdoors mountain biking, hiking, skiing, paddleboarding, and honing my photography skills.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/clintkoehler/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clint-koehler/) 
